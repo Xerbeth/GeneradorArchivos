@@ -1,0 +1,38 @@
+[
+  {
+    "itemId": 83094,
+    "content": "<div class=\"col-md-12\">\n    <div class=\"grid-row\">\n      <div class=\"col-12\" tabindex='15 '>\n        <p class=\"txt-jty\">Un jugador de golf se encuentra, inicialmente, a una distancia de 20 m del hoyo. En el primer tiro, le da un golpe a la bola que hace que esta recorra 9 m, y la bola queda a 11 m del hoyo (ver figura).</p>\n        <p class=\"txt-ctr\">\n          <img class=\"img-responsive\" src=\"{{rutaBase}}I_1480720/I_1480720_EN.png\" alt=\"I_1480720_EN\" alt=\"65%\"/>\n        </p>\n        <p class=\"txt-jty\">Para que en su segundo tiro el jugador pueda llegar hasta el hoyo, él debe</p>\n      </div>\n    </div>\n    <div class=\"grid-row\">\n      <div class=\"col-12\" tabindex='15 '>\n        </div> <div aria-label='Grupo de respuestas usar flechas para seleccionar' role='radiogroup' id='divAnswer'> <label class='radio' ><input tabindex='21'  id=\"A\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"A\"/>\n            aumentar la magnitud de la fuerza aplicada a la bola.\n          \n          </label> <label class='radio' ><input tabindex='22'  id=\"B\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"B\"/>\n            aumentar el volumen y la masa de la bola de golf.\n          \n          </label> <label class='radio' ><input tabindex='23'  id=\"C\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"C\"/>\n            disminuir la magnitud de la fuerza aplicada a la bola.\n          \n          </label> <label class='radio' ><input tabindex='24'  id=\"D\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"D\"/>\n            disminuir la velocidad con la que el palo golpea la bola.\n          \n        \n      \n    \n  </label></div></div></div>",
+    "orderVisual": 8,
+    "sesion": 1,
+    "total": 20,
+    "testName": "Ciencias Naturales y Educación ambiental",
+    "type": "single",
+    "itemNumero": "I_1480720",
+    "itemChild": 0,
+    "order": 8,
+    "totalVisual": 20,
+    "recursosItem": "[\"I_1480720/I_1480720_EN.png\"]",
+    "idEstado": "OK",
+    "marcarRespuesta": 0,
+    "idcombo": 2643,
+    "code": "A"
+  },
+  {
+    "itemId": 83095,
+    "content": "<div class=\"col-md-12\">\n    <div class=\"grid-row\">\n      <div class=\"col-12\" tabindex='15 '>\n        <p class=\"txt-jty\">Se tiene una botella con 1 litro de alcohol cerrada con un globo elástico en la tapa (ver figura). Al pasar esta botella de un recipiente con hielos a un recipiente con agua caliente, el globo se comienza a inflar porque el alcohol cambia de estado.</p>\n        <p class=\"txt-ctr\">\n          <img class=\"img-responsive\" src=\"{{rutaBase}}I_1478470/I_1478470_EN.png\" alt=\"I_1478470_EN\" alt=\"61%\"/>\n        </p>\n        <p class=\"txt-jty\">Cuando el alcohol pasa de estado líquido a gaseoso, el alcohol aumenta su</p>\n      </div>\n    </div>\n    <div class=\"grid-row\">\n      <div class=\"col-12\" tabindex='15 '>\n        </div> <div aria-label='Grupo de respuestas usar flechas para seleccionar' role='radiogroup' id='divAnswer'> <label class='radio' ><input tabindex='21'  id=\"A\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"A\"/>volumen, porque en estado gaseoso la distancia entre las moléculas de alcohol es mayor.\n          </label> <label class='radio' ><input tabindex='22'  id=\"B\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"B\"/>masa, porque en estado gaseoso hay una mayor cantidad de moléculas de alcohol.\n          </label> <label class='radio' ><input tabindex='23'  id=\"C\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"C\"/>\n            volumen, porque el material del globo se deshace con el alcohol.\n          \n          </label> <label class='radio' ><input tabindex='24'  id=\"D\" [(ngModel)]=\"respAng\" (click)=\"answer($event)\" type=\"radio\" name=\"resp\" value=\"D\"/>\n            masa, porque el frío del hielo destruye las moléculas de alcohol.\n          \n        \n      \n    \n  </label></div></div></div>",
+    "orderVisual": 7,
+    "sesion": 1,
+    "total": 20,
+    "testName": "Ciencias Naturales y Educación ambiental",
+    "type": "single",
+    "itemNumero": "I_1478470",
+    "itemChild": 0,
+    "order": 7,
+    "totalVisual": 20,
+    "recursosItem": "[\"I_1478470/I_1478470_EN.png\"]",
+    "idEstado": "OK",
+    "marcarRespuesta": 0,
+    "idcombo": 2643,
+    "code": "A"
+  }
+]
