@@ -6075,11 +6075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faibe\\source\\repos\\GeneradorJsonSaber311\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
+      "projectUniqueName": "C:\\Users\\faibe\\Documents\\GitHub\\GeneradorArchivos\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
       "projectName": "GeneradorJsonSaber311",
-      "projectPath": "C:\\Users\\faibe\\source\\repos\\GeneradorJsonSaber311\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
+      "projectPath": "C:\\Users\\faibe\\Documents\\GitHub\\GeneradorArchivos\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
       "packagesPath": "C:\\Users\\faibe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faibe\\source\\repos\\GeneradorJsonSaber311\\GeneradorJsonSaber311\\obj\\",
+      "outputPath": "C:\\Users\\faibe\\Documents\\GitHub\\GeneradorArchivos\\GeneradorJsonSaber311\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

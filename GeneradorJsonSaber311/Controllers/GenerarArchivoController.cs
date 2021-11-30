@@ -19,7 +19,6 @@ namespace GeneradorJsonSaber311.Controllers
         {
             try
             {
-
                 ProcesarArchivoController procesarArchivo = new ProcesarArchivoController();
                 procesarArchivo.Crear(items);
             }
@@ -28,19 +27,6 @@ namespace GeneradorJsonSaber311.Controllers
                 Console.WriteLine(ex.Message);
             }
             
-        }
-
-        //[HttpPost("GenerarArchivo")]
-        //public IEnumerable<string> Get(List<Item> items)
-        //{
-        //    var rng = new Random();
-        //    return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        //    {
-        //        Date = DateTime.Now.AddDays(index),
-        //        TemperatureC = rng.Next(-20, 55),
-        //        Summary = Summaries[rng.Next(Summaries.Length)]
-        //    })
-        //    .ToArray();
-        //}
+        }       
     }
 }

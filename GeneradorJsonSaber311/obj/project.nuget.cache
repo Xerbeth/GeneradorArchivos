@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ji1Ax859viqjZDi5r2iXWZf202x4gEFY+LBOaBy9PYepZhf/R67hoZSi8s3nop1GgXMtdzVbFBTXpuiyff2Nsw==",
+  "dgSpecHash": "AUs63DNj/Qd+OoWK0bxl69KE37BXw+lewrg0OuWPJ3Ef6sAOkm0DtyHwhK2ACGKDL1560swtpFZdxGtV98FmTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faibe\\source\\repos\\GeneradorJsonSaber311\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
+  "projectFilePath": "C:\\Users\\faibe\\Documents\\GitHub\\GeneradorArchivos\\GeneradorJsonSaber311\\GeneradorJsonSaber311.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faibe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\faibe\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
